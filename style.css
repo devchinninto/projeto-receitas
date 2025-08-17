@@ -11,7 +11,7 @@
 }
 
 body {
-  background-image: url(/assets/bg-image.png);
+  background-image: url(./assets/bg-image.png);
   background-repeat: no-repeat;
   background-size: cover;
   background-color: #573824;
